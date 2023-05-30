@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "ru.docsystems.mont",
-               "sha256_cert_fingerprints": ["B5:57:A6:D3:BB:CB:A6:59:2F:EA:87:6F:F7:52:0C:54:5E:47:74:C9:A8:44:11:3C:EB:85:18:79:21:75:9B:EF"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.docsystems.mont",
+    "sha256_cert_fingerprints":
+    ["B5:57:A6:D3:BB:CB:A6:59:2F:EA:87:6F:F7:52:0C:54:5E:47:74:C9:A8:44:11:3C:EB:85:18:79:21:75:9B:EF"]
+  }
 }]
